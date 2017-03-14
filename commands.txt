@@ -1,0 +1,7 @@
+start notepad 
+start iexplorer ==> opens IE browser homepage
+start iexplorer -new "www.google.com" ==> opens IE browser with google page
+start explorer
+
+
+Taskkill /IM chrome.exe /F > nul ==> terminate a process

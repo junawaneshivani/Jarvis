@@ -1,0 +1,19 @@
+Title: Natural language processing using finite state automata
+
+Motivation:
+	
+Objectives:
+	
+
+Outcomes:
+	
+
+Different types of Survey and conclusions from the survey:
+
+Implementation technology:
+	python3 as a programming language
+	ubuntu operating system
+	espeak software for text to speech
+	pyaudio and speech recognition library in python for speech to text
+	
+Conclusion:
